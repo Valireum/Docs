@@ -1,0 +1,19 @@
+-Identify more Problems/Limitations that VLM solves.
+
+-Identify more Applications and Use Case
+
+-Need Breif discription of ETH Network specifics and features - e.g. Security, Ownership and so on. "Network Section" so far covers AWS Amazon - 
+(need to make a case why ETH/Blockchain is specifically needed).
+
+-More thorough details on V-editor - what are all features? target users - developers/non-developers/or both e.g. is it to substitute professional 
+grade software like Z-brush, UE4, or is it additive? - e.g. Novice users can use V-editor, while experienced devs can import using other software?
+
+-Hot topic with UE4 is UE5, this is for Topic sections "Engine Support". Is it confirmed that VLM has upgrade option to UE5 - 
+need more details on any foreseen consequences of doing so, e.g. What impact on core VLM coding/games/assets/tokens/server hosting costs (if any).
+
+-Blockchain features - different from ETH network infastructure, need bullet points on VLM specific features 
+e.g. "What does the blockchain enable us to do in Valireum, and why is that important?' - Things need to be worded for both experienced crypto community, 
+and non-crypto gamers that don't know what a ERC20 or NFT is.
+
+- Relevant statistics - e.g. Avg. expected income from Video game content "Streamers", what % of gamers are those that make money from playing, 
+How much expected development costs involded in Triple-A games to Indi games, % growth of gaming industry in both revenue and users over timeframes. 
