@@ -16,42 +16,34 @@ https://www.valireum.net</div>
 
 
 ### <div align="center">Abstract</div>
+Valireum is a Blockchain based ecosystem utilizing the Ethereum network to deliver innovative solutions to the gaming industry. Our platform aims to support Developers, Consumers and Investors with new incentives that fundamentally change the way value is created and shared. With Valireum, developers are assited with the tools to create and deploy large-scale games without the overhead costs and risks involved with a traditional development studio. WE cator to industry professionals and novice user in a way that is both user friendly while producing quality products. Investors in Valireum can enjoy new pipeline options of revenue, with a variety of options that allow for better diversification, efficiency and control of targetted asset specifics. Valireum will also redifine the role of the consumer - broadening oppotunities in a way that rewards them for their participation. In addition, through tokenization and smart contracts Valireum will leverge such technology to create a direct revenue marketplace for digital assets that it's community can create, trade and share. 
 
-<div align="center">This paper presents a realisable vision for the future of gaming built on top of the Ethereum Blockchain first, and then on the Valireum Platform, to manage increasingly complex and appealing game worlds as well as securing and simplifying the ownership, sharing, and trade of virtual assets.
+The Valireum platform will consist of "Planets" which represent the canvis of new games and idea for Developers and users to freely build upon. These Planits can be purchased with the use of the Valireum Token VLM - a non fungible and transferrable token stored in an Ethereum smart contract. Planets can be leased and rented out by investors, or Traded and sold to anyone, to be used as the foundation layer for games and assets built on it. In addition to Planets, each game created on these planets will have the option for users to also tokenize smaller virtual assets utilized within the games. Both items and planets will populate a decentalized marketplace with the support of secure ownership and trensferal. 
 
-Valireum achieves this through the democratisation of game development and deployment, allowing developers to bring their vision to life quickly, without costs. 
-Valireum treats game developers as partners and offers a complete solution to build games from scratch with free hosting services to kickstart. If the game is successful Valireum hosting services will scale, and unlike other providers, the Valireum platform will pay the developers loyalties for each new player connected to the game.
+As the gaming industry rapidly grows and expands, consumer demand for greater quality comes with it. The definition of such quality comes in many forms - the level of immersion with graphics, fairness and meaningful challenge in gameplay, and social connectedness of larger micro-communities. These trends have influenced the way game studios make decisions on how to balance greater expectations with risk and revenue strategies. The fact is, the industry core dynamics have been changing dramatically, from traditional consumer/product exchange markets, to consumer/consumer exchange markets that leverage the product. In several cases we are now seeing consumers on the payroll of studios with network marketing and content creators. Gamers are making a career of streaming, alongside widely sponsored 'eSport' events. Much has changed in the way money, goods and services exchange in the gaming industry - and providing a more efficient strategy to meet these changes is in critical need. 
 
-It will provide a wealth of templates, tools and a state-of-the-art infrastructure for game developers to build their own games. Fully decentralized, autonomous games where players have provably fair gameplay with true ownership of their in-game items.
-Until now scaling has been a major difficulty for blockchains and particularly for massive game worlds and their virtual asset creations. 
-Since Valireum world is distributed in form of non-fungible tokens(NFT) in the Ethereum blockchain, this means anyone holding a token has a instant access to all the services that Valireum provides. 
+What Valireum aims to achieve, is an Intelligent approach to the modern day gaming industry - addressing a vast range of complications from asset security, development efficiency, risk management, investor options and customization, and new incentives for all participants. We wish to deliver a no-compromise approach that creates a better deal and greater value for Consumers, Developers and Investors alike. With the power of Blockchain, and smarter applications to monitization of gaming, we believe we have the answer. 
 
-Furthermore, developers can fully leverage the Valireum Universe to create their own Ecosystems and currency that can be traded easily in ......................???????? 
+What is the future of gaming? Valireum. 
 
+<div align="center"> 
 
-Cryptocurrency and blockchain technology are  having a significant impact on the gaming sector, which is expected to become a $154 bilion global industry by 2021. That is why it can be said that the gaming industry is one of the fastest growing tech industries in the world. The potential of cryptocurrency technologies in games is practically untapped and we are only starting! 
-We see the blockchain as a transformational technology where games transcend the virtual and take on a life of their own in the real world.
-Just like in the world of finance where investors require a safe environment to carry out their transactions, gamers require a safe platform to develop their own games. 
-What we proposed  is gaming using the blockchain to provide a secure, decentralised, autonomous, and flexible platform upon which a variety of games and projects can be built. Valireum is the world’s first fully capable decentralized virtual ecosystem meant to help game creators, developers, realize and distribute their vision. 
- 
- Nowadays, the online gaming development, hosting and management is limited to large scale game studios, even if you are a skilled game developer, you won't be able to host and manage your game without paying a high monthly fee to third-party services that have no guarantee of success, in other words, if your game succeeds the service provider will happily scale and get more profit, if not you are the only one whos losing money.
-
-Valireum treats game developers as partners and offers a complete solution to build games from scratch with free hosting services to kickstart, if the game is successful Valireum hosting services will scale, and unlike other providers, the Valireum platform will pay the developers loyalties for each new player connected to the game.
-
-The Valireum world is distributed in form of non-fungible tokens(NFT) in the Ethereum blockchain which means anyone holding a token has a instant access to all the services that Valireum provides. these tokens will be sold to investors during the public offer later when the beta version is released.</div>
+.</div>
 
 --------------------------------------------------------------------------------------------------------------
 
 **Table of content:**
 
+### **Introducation**
+
 ### **Section A: Mission Objectives**
-####   1. Problems and Limitations
+####   1. Industry Limitations & Problem Definition
 ####   2. Valireum Solutions
 ####   3. Game Developers
 ####   4. Use Case and Applications
 
 ### **Section B: Our Technology:**
-####   1. The Network
+####   1. The Network & Infastructure
 ####   2. V-editor for Developers
 ####   3. Engine Support
 ####   4. Blockchain Features
@@ -64,14 +56,30 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 ####   5. Relevant Market Trends
 
 ### **Summary**
-
+####   1. Valireum Outlook
+####   2. Disclaimer
+####   3. Notes
+####   4. Further Reading
 --------------------------------------------------------------------------------------------------------------------
 
 (Insert header image)
 
+# **Introducation**
+(paragraphs text)
+
 # **Section A: Mission Objectives**
-## 1. Problems and Limitations 
-Assume you are a talented developer with a great idea for a killer game app, however, you have no experience in the gaming industry. Centralized gaming companies operate in a highly competitive environment and experience is of premium value for them. You will likely wait a while before you land that job in a gaming company to develop that killer game of yours.
+## 1. Industry Limitations & Problem Definition
+Independant Developers within the current climate generally have a desire to create something much greater than their resources can allocate - be it time, expertise, or financial constraints. Every step of the process is contrasted with either a direct calculation of what they have at their disposal, or an estimate of what may be recieved later from user adoption. The former is a known risk, with the later being the assumed risk. With this is mind, many seek initial investment to kickstart their project, and at that moment the clock starts ticking and the pressure is on to meet deadlines and within budget. Even with a great business model and roadmap, unforseen situations can derail success completely, with both investor and developer coming up empty handed. In short, it's money first and product later with a carried hope that the product is well recieved by the gamer community. With Valireum, the process is restructured in a way that removes excess development costs, removes the exposure risk for investors, and allows for game development scaling while simultaniously weighing up real user adoption. 
+
+Similarily for large scale triple-A studios, the circumstances are simple scaled up - more immersive, complex and enriched games, with larger investment and a greater need to garnish adoption on release. Companies offset losses with the success of previous titles, which is certainly a viable strategy that works. What is needed is to more alternative options for further supplement revenue, and options that are not only cost effective, but target the heart of the gaming ecosystem. This is where vitual asset items play a significant role - however the current technology structures employed do not provide a viable opportunity for both independant deveelopers and larger studios to tap into with ease. 
+
+Adaptations to the core model of creating a whole game and selling retail have been emerging in recent years. For example, games that are free to play, but provide advantages and benifits to players that pay for in-game content. This has often led to player base discouragement as "Free to play" VS 'Pay to Win' creates a disruptive imbalance within games themselves. Another popular strategy has been the 'skins economy' - a kind of mid-way strategy to avoid diruptive imbalances within games, while leverage value through purely cosmetic changes. With this approach, game items take on relatively unique appearances, which players buy due to its value of distinction. The conflict here is that more value is then prescibed gnerally to 'skins' or items that are rare or provide a higher level of individual player distinction - this is not a reliable substitute to completely support development costs and ongoing costs, as restricted supply has an inverse relationship with higher value. With this, overtime and with 'flooding' a game with more cosmetic options has increased the value of player individuality, and further led to an evolved bahavior of 'collecting' items and 'virtual memorabilia'. Essentially this results in enourmous value acting as an attachment factor to a single game, and somewhat hindering any future migration to new games that are not compatible with a players collection. In addition, this also raising problems of account security and scams targetting players for their stored wealth. All in all, game studios want to be working on games, and not burdened to devote endless resources into virtual item cosmetics for a main source of income, whislt indirectly creating a micro-community that is more disposed to 'nesting' on a single game for a decade or more. 
+
+Lets take a look at a current platforms like 'Steam'. Steam does have an integrated marketplace, however the liquidity can not be extracted off the platform - effectively making it a one way direction of funds. Account security is not full-proof and users have experienced individual losses of thousands of dollars due to targetting scamming, account hacking, accounts being locked/suspended and so forth. Some virtual items are value upward of $10,000 USD, which is a significant risk of loss to be exposed to without full proof security, control and ownership. These limitations have led to players attempting to use third party websites in order to extract funds from the platform, which has often enough result in trade agreements not being honored and items lost. Many users of the gaming community are also younger children who are more suseptible to being scammed and decieved out of their item inventory. 
+
+Moving on to the topic of developers skillset, we understand that with highly competitive and established game studios also comes with a demand for highly experienced and skilled staff - not everyone can meet the standard, while the wider interest for engaging in game development is far greater. This is an untapped potential where novice developers or even those with no experience, are not well supported if at all when it comes to equiping them with the tools to get started. There is quite a significant investment prior to developing a game - study and education, software licenses, workstation PC's and so on. Whislt it is an acceptable investment, Valireum will offer a more efficient and streamline options that removes the need for prior knownledge or experience in game developement. 
+
+Lastly, when we consider the larger investors in our current and traditional ecosphere, they are investing into a gaming company as a whole entity. That means they can expect diminished returns due to games that the company launched that did not do so well. They way in which Valireum approaches the investment side of things is much more customizable - allowing Investors to not only support whole companies, but also individual games exlcusively while removing exposure to a whole company. 
 
 ## 2. Valireum Solutions
 What Valireum is offering to game developers?
@@ -99,7 +107,7 @@ Services:
 (Insert header image)
 
 # **Section B: Our Technology**
-## 1. The Network 
+## 1. The Network & Infastructure
 
 - Scalable database, notification system, API event/triggers.
 
