@@ -166,51 +166,34 @@ VLM - Valireum’s fungible, ERC20 cryptocurrency token, that will be used throu
 ## 1. The Autonomous Mnetization System
 (Text paragraphs)
 
-## 2. Investor Options & Opportunities
-SHARE - a Non-Fungible Token (NFT), guarantees to the holder a percentage of the Investors Fund. The Investors Fund is formed by 25% of all in-game items and  NFTs sales, as well as 45% of all the Ads income of the Valireum Universe. 
+## 2. Tokenization & Virtual Assets
+
+VLM - a Fungible Token (ERC20), VLM with an age of 15 days minimum guarantees to the holder a percentage of the Investors Fund. The Investors Fund is formed by 25% of all in-game items and  NFTs sales, as well as 45% of all the Ads income of the Valireum Universe. 
 
 The PLANETS owners will be free to sell or trade their creations, items, and planets in the Valireum Marketplace and in any existing NFT marketplace on the Ethereum blockchain.
-
-SHARES max supply: 10000 Shares(NFT) (each token represent 0.01% of the total investor's shares).
 
 Valireum source of income:
 
-1: Game items sold to players each week, the money received will be divided between (35%)game dev, (40%)platform and (25%)GameShares holders(sold in the private sales).
+1: Game items sold to players each week, the money received will be divided between (35%)active planets, (40%)platform and (25%)Investors Fund).
 
-2: meshes, materials, animations, etc.. items and features sold to developers, the money divided between the platform(75%) and GameShares holders(25%).
+2: planets, meshes, materials, animations, etc.. items and features sold to developers, the money divided between the platform(75%) and Investors Fund(25%).
 
-3: Advertisement income: divided between game dev(35%) and GameShares holders(45%) platform (20%).
-
-## 3. Tokenization & Virtual Assets
-Valireum is a Virtual Universe which has three distinct digital assets, each one with unique attributes and different value. 
-
-This utility token will allow you to buy PLANETS and the items you may need, to create your extraordinary experiences.
-VLM max Supply: 50 000 000 VLM
-
-WORLDS - a NFT token. Each WORLD is a unique collectible item 
-which guarantees access to the following Valireum services and tools:
-
-Worlds tokens supply 1050(Scalable) divided into two categories:
-
-1. Large-Planet: 300 tokens - Size(15Km*15km)
-2. Small-Planet: 750 tokens - Size(6km*6km)
+3: Advertisement income: divided between active planets(35%) and Investors Fund(45%) platform (20%).
 
 
-Each PLANET and SHARE is tokenized as an ERC-721 non-fungible token (NFT) that uses the transparency of public distributed ledger technology to track their uniqueness with individual identities and properties and enable true digital ownership. Overall, to generate real value in the Valireum Ecosystem. 
+Each PLANET is tokenized as an ERC-721 non-fungible token (NFT) that uses the transparency of public distributed ledger technology to track their uniqueness with individual identities and properties and enable true digital ownership. Overall, to generate real value in the Valireum Ecosystem. 
 
-The PLANETS are the canvas on which you can create your amazing experiences. As an owner, you will have the full creative freedom to build your own game or ecosystem by deploying your own Ethereum contract and token, including the ability to sell or rent your Planets.
+The PLANETS are the canvas on which you can create your amazing experiences. As an owner, you will have the full creative freedom to build your own game or ecosystem by deploying your own Ethereum contract and token, including the ability to sell or rent your Planet.
 
 The PLANETS owners will be free to sell or trade their creations, items, and planets in the Valireum Marketplace and in any existing NFT marketplace on the Ethereum blockchain.
 
+## 3. Investment opportunities
 
 ## 4. Incentives
 Valireum source of income:
 
-1: Game items sold to players each week, the money received will be divided between (35%)game dev, (40%)platform and (25%)GameShares holders(sold in the private sales).
+(Removed: duplicated data)
 
-2: meshes, materials, animations, etc.. items and features sold to developers, the money divided between the platform(75%) and GameShares holders(25%).
-
-3: Advertisement income: divided between game dev(35%) and GameShares holders(45%) platform (20%).
 
 ## 5. Relevant Market Trends
 (Text paragraphs)
