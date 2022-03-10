@@ -1,9 +1,8 @@
 
-const region = 'eu-west-1' // AWS region
 require('dotenv').config({path: './.env'});
 const AWS = require('aws-sdk');
-const DynamoDb = new AWS.DynamoDB({region: region});
-const Cognito = new AWS.CognitoIdentityServiceProvider({region: region});
+const DynamoDb = new AWS.DynamoDB({region: process.env.REGION});
+const Cognito = new AWS.CognitoIdentityServiceProvider({region: process.env.REGION});
 const ethers = require('ethers');  
 const crypto = require('crypto');
 
