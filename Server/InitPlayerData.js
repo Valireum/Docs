@@ -1,3 +1,4 @@
+require('dotenv').config({path: './.env'});
 const AWS = require('aws-sdk');
 const DynamoDb = new AWS.DynamoDB({region:process.env.REGION});
 const ethers = require('ethers');  
